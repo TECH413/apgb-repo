@@ -1,1 +1,4 @@
-hii helloo
+class welcome{
+
+b=20
+}
